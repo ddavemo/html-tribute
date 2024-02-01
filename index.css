@@ -1,0 +1,21 @@
+body {
+    background-color:aliceblue;
+}
+
+#main {
+    width: 700px;
+    text-align: center;
+    background-color: darkgrey;
+}
+
+
+.content {
+    font-weight: bold;
+    font-stretch: expanded;
+    margin-top: 20px;;
+}
+
+.heading {
+    background-color: burlywood;
+    margin-bottom: 10px;
+}
